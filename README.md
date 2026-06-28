@@ -57,3 +57,4 @@ CARA MENJALANKAN APLIKASI
 
 5. Buka aplikasi di browser dan coba semua fitur
 
+Proyek dikembangkan dengan menggunakan Perangkat Kecerdasan Artifisial (cloudAI)
