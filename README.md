@@ -39,13 +39,21 @@ TAMPILAN
 
 <img width="1874" height="712" alt="image" src="https://github.com/user-attachments/assets/bed46869-42cc-4e60-9d7e-ed54c3cfe9b6" />
 
+
 STRUKTUR DATABASE
 
 <img width="333" height="448" alt="Screenshot 2026-06-28 104831" src="https://github.com/user-attachments/assets/5323a159-853f-4fb5-bdc4-e9d593997c0f" />
 
+
 CARA MENJALANKAN APLIKASI
+
 1. Pastikan xampp suda terinstall
+
 2. letakkan folder projek ke htdocs
+
 3. Nyalakan Apache dan mysql di xampp
+
 4. Import database
+
 5. Buka aplikasi di browser dan coba semua fitur
+
