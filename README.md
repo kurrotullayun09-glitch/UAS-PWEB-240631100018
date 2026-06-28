@@ -1,6 +1,9 @@
 NAMA  : KURROTUL A'YUN
+
 NIM   : 240631100018
+
 JUDUL APLIKASI : SISTEM INVENTARIS BARANG
+
 DESKRIPSI      : 
 Sistem Inventaris Barang adalah aplikasi web sederhana berbasis 
 PHP Native dan MySQL yang digunakan untuk mencatat dan mengelola 
